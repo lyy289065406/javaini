@@ -1,6 +1,6 @@
-# jep
+# javaini
 
-> java 表达式解析器
+> ini 配置文件解析器
 
 ------
 
@@ -26,7 +26,7 @@ maven 的 `settings.yml` 配置 sonatype 中央仓库：
 ```xml
 <dependency>
     <groupId>com.exp-blog</groupId>
-    <artifactId>jvm-agent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>javaini</artifactId>
+    <version>1.1.0-SNAPSHOT</version>
 </dependency>
 ```

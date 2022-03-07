@@ -19,20 +19,20 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/lyy289065406/jvm-agent.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:lyy289065406/jvm-agent.git</developerConnection>
-        <url>https://github.com/lyy289065406/jvm-agent</url>
+        <connection>scm:git:https://github.com/lyy289065406/javaini.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:lyy289065406/javaini.git</developerConnection>
+        <url>https://github.com/lyy289065406/javaini</url>
     </scm>
 
     <groupId>com.exp-blog</groupId>
-    <artifactId>jvm-agent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>javaini</artifactId>
+    <version>1.1.0-SNAPSHOT</version>
 
     <properties>
         <java.version>1.8</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
