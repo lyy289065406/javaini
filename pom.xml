@@ -24,9 +24,13 @@
         <url>https://github.com/lyy289065406/javaini</url>
     </scm>
 
+    <name>javaini</name>
+    <description>A *.ini configuration file parser</description>
+    <url>https://github.com/lyy289065406/javaini</url>
+
     <groupId>com.exp-blog</groupId>
     <artifactId>javaini</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
 
     <properties>
         <java.version>1.8</java.version>
