@@ -6,7 +6,7 @@
 
 ## 简介
 
-因此构件的官方组织/作者已放弃维护，且在 maven 中央仓库无法下载原版，故有了此项目，同时很可能会顺便修复一些 BUG。
+因此构件的官方组织/作者已放弃维护，且在 maven 中央仓库无法下载原版，故有了此项目。
 
 
 ## 使用方式
@@ -33,6 +33,6 @@ maven 的 `settings.yml` 配置 sonatype 中央仓库：
 <dependency>
     <groupId>com.exp-blog</groupId>
     <artifactId>javaini</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
 </dependency>
 ```
